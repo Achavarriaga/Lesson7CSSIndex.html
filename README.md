@@ -4,12 +4,23 @@
 <head>  
 <tittle>My Personal Introduction</tittle>
 <style> 
+body {
 
-body{background-color: C8AFB9;}
+background-color: D69A98;
 
-h1{color: 2A2D34;}
+}
 
-p {color: F4F4F1;}</style>
+h1 {
+
+color: 2A2D34;
+
+}
+
+p {
+
+color: F4F4F1;
+
+}
 
 </head>
   <body><h1>My name is Andrea Chavarriaga </h1>
